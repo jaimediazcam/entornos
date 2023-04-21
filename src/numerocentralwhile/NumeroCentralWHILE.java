@@ -25,6 +25,7 @@ public class NumeroCentralWHILE {
             num3 = sc.nextInt();
             
             System.out.println("Hola");
+            System.out.println("Modificado en GitHub");
 
             if (num1 > num2 && num1 < num3 || num1 < num2 && num1 > num3) {
                 System.out.println("El numero central es: " + num1);
